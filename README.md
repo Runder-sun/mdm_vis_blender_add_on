@@ -6,7 +6,7 @@ This add-on is compatible with Blender version 2.80 and above.
 
 ## Installation
 
-1.  Download the add-on as a `.zip` file (e.g., `smpl_npy_importer_vX.Y.Z.zip`).
+1.  Download the add-on as a `.zip` file.
 2.  Open Blender.
 3.  Go to `Edit > Preferences...`.
 4.  Select the "Add-ons" tab on the left.
